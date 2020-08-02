@@ -1,0 +1,10 @@
+img.inlineTOblock
+{
+	margin:5px;
+	border:black 5px solid;
+	padding:5px;
+	background-color:yellow;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}

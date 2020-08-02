@@ -1,0 +1,61 @@
+p
+{
+	color:red;
+	background-color:yellow;
+	padding:10px;
+	border:black 5px solid;
+	width:150px;
+	font-weight:bold;
+}
+.p1
+{
+	cursor:crosshair;
+}
+.p2
+{
+	cursor:hand;
+}
+.p3
+{
+	cursor:text;
+}
+.p4
+{
+	cursor:help;
+}
+.p5
+{
+	cursor:none;
+}
+.p6
+{
+	cursor:copy;
+}
+.p7
+{
+	cursor:auto;
+}
+.p8
+{
+	cursor:URL("icon.ico"),none;
+}
+.p9
+{
+	cursor:inherit;
+}
+.p10
+{
+	cursor:wait;
+}
+.p11
+{
+	cursor:progress;
+}
+.p12
+{
+	cursor:spinning;
+}
+a:hover
+{
+	cursor:url("icon.ico"),none;
+}

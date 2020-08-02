@@ -1,0 +1,16 @@
+#main
+{
+	border:5px green solid;
+	background-color:pink;
+	padding:10px;
+	margin:15px;
+	float:left;
+}
+p
+{
+	color:red;
+}
+:not(p)
+{
+	color:black;
+}

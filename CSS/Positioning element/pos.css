@@ -1,0 +1,15 @@
+p
+{
+	color:yellow;
+	background-color:red;
+}
+div
+{
+	color:white;
+	background-color:black;
+	position:absolute;
+	top:75px;
+	left:150px;
+	width:250px;
+	height:250px;
+}

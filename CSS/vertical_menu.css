@@ -1,0 +1,27 @@
+ul
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+ul li a
+{
+	text-decoration:none;
+	font-family:"Times New Roman";
+	background-color:grey;
+	color:yellow;
+	display:block;
+	width:50px;
+	margin:5px;
+	padding:10px;
+	border:red 2px solid;
+	border-radius:10px;
+	text-align:center;
+	height:25px;
+	line-height:25px;
+}
+ul li a:hover
+{
+	background-color:#d3d3d3;
+	color:black;
+}

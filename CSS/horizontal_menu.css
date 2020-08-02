@@ -1,0 +1,33 @@
+#main
+{
+	background-color:darkgreen;
+	height:35px;
+	font-size:25px;
+	font-weight:bold;
+	font:tahoma;
+}
+#main ul
+{
+	list-style:none;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#main li
+{
+	display:inline;
+	padding:15px;
+	vertical-align:center;
+}
+#main a
+{
+	color:white;
+	text-decoration:none;
+	padding:8px 8px 8px 8px;
+	vertical-align:middle;
+}
+#main a:hover
+{
+	color:black;
+	background-color:white;
+]

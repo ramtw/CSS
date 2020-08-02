@@ -1,0 +1,24 @@
+#main
+{
+	border:green 5px solid;
+	background-color:#EBECE4;
+	margin:10px;
+	padding:15px;
+	float:left;
+}
+#main p:nth-child(even)
+{
+	background-color:yellow;
+}
+#main p:nth-child(odd)
+{
+	background-color:aqua;
+}
+#main p:nth-child(3n)
+{
+	color:purple;
+}
+#main p:nth-child(3n + 4)
+{
+	background-color:pink;
+}

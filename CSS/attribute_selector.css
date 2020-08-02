@@ -1,0 +1,29 @@
+#main
+{
+	color:red;
+	float:left;
+	background-color:grey;
+	border:green 2px solid;
+	margin:10px;
+	padding:15px;
+}
+p[lang]
+{
+	color:yellow;
+}
+p[lang="fr"]
+{
+	color:black;
+}
+p[lang^="fr"]
+{
+	background-color:navy;
+}
+p[lang$="o"]
+{
+	background-color:blue;
+}
+p[lang*="n"]
+{
+	background-color:red;
+}

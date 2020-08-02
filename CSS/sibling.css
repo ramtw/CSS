@@ -1,0 +1,33 @@
+#left
+{
+	width:300px;
+	float:left;
+	padding:15px;
+	margin:10px;
+	background-color:#FFFFFE;	
+}
+#right
+{
+	width:300px;
+	float:left;
+	padding:15px;
+	margin:10px;
+	background-color:#ECF1EF;
+}
+#center
+{
+	width:300px;
+	float:left;
+	padding:15px;
+	margin:10px;
+	background-color:#EBECE4;
+}
+#left,#right,#center
+{
+	border:solid 2px green;
+}
+h2~p
+{
+	color:red;
+}
+

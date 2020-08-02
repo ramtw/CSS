@@ -1,0 +1,156 @@
+body
+{
+	color:green;
+	font-family:verdana,Arial,Geniva,Arial Black;
+	background-color:#ffcf79;
+	font-size:30px;
+	border-color:aquamarine;
+	border-style:solid;
+	border-width:10px;
+	background-image:url(background_image2.jpeg);
+}
+
+h1,h2
+{
+	background-color:yellow;
+	text-align:center;
+	
+}
+
+h1
+{
+	color:dark pink;
+	border-bottom: 5px solid black;
+	text-decoration:line-through;
+	font-size:150%;
+}
+
+h2
+{
+	border: 5px dashed black;
+	text-decoration:overline;
+	font-size:1.2em;
+}
+
+p
+{
+	font-size:30px;
+	font-family:Helvetica;
+}
+
+p.red
+{
+	color:red;
+}
+
+.blue
+{
+	color:blue;
+}
+
+.underline
+{
+	text-decoration:underline;
+}
+
+.light
+{
+	font-weight:light;
+}
+
+.normal
+{
+	font-weight:normal;
+}
+
+.bold
+{
+	font-weight:bold;
+}
+
+.bolder
+{
+	font-weight:bolder;
+}
+
+p.para1
+{
+	color:red;
+	font-size:20px;
+}
+
+p.para2
+{
+	color:red;
+	font-size:20px;
+	font-style:oblique;
+}
+
+p.para3
+{
+	color:red;
+	font-size:20px;
+	font-style:italic;
+}
+.lineheight
+{
+	line-height:1.5em;
+	background-color:#e5e4d7;
+	padding:20px;
+	border-color:black;
+	border-style:solid;
+	border-width:20px;
+	margin:20px;
+	margin-top:50px;
+	margin-left:400px;
+	padding-left:40px;
+}
+.shiv
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:3px;
+	background-color:silver;
+	border-color:black;
+	border-style:ridge;
+	border-width:5px;
+	border-radius:10px;
+}
+.back
+{
+	background-image:url(background_image1.jpeg);
+	color:black;
+}
+#para6
+{
+	background-image:url(image3.jpeg);
+	color:black;
+	border-style:ridge;
+	border-color:black;
+	border-bottom-style:dotted;
+}
+#div1
+{
+	color:red;
+}
+div2
+{
+	color:blue;
+}
+.highlight
+{
+	background-color:yellow;
+}
+a:link
+{
+	color:aqua;
+}
+a:visited
+{
+	color:red;
+}
+a:hover
+{
+	color:yellow;
+}

@@ -1,0 +1,12 @@
+#text1
+{
+	font:bold 60px helvetica;
+	text-align:center;
+	text-shadow:3px 3px 5px orange,6px 6px 10px blue;
+}
+#text2
+{
+	font:bold 60px helvetica;
+	text-align:center;
+	text-shadow:6px 6px 10px rgba(0,0,255,0.5);
+}

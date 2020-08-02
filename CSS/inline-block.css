@@ -1,0 +1,21 @@
+.inline
+{
+	background-color:yellow;
+	color:red;
+	height:50px;
+	display:inline;
+}
+.block
+{
+	background-color:yellow;
+	color:red;
+	height:50px;
+	display:block;
+}
+.inline-block
+{
+	background-color:yellow;
+	color:red;
+	height:50px;
+	display:inline-block;
+}
